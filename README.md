@@ -1,10 +1,10 @@
-This repo contains file to Fine-Tune resnet34 model for GTSRB task.
+This repo contains file to Fine-Tune resnet34 model for [GTSRB task](https://pytorch.org/vision/main/generated/torchvision.datasets.GTSRB.html).
 
-ipynb contains train process and it's results
+[ResNetTransf.ipynb](https://github.com/StarLord202/GTSRB/blob/master/ResNetTransf.ipynb) contains train process and it's results
 
-and you also can test the model via **_inference.py_** file, but firstly download the weights via [this link](https://drive.google.com/file/d/1Gs8mJBBfdBofuBQdViNrPAARUCoBWzNM/view?usp=drive_link)
+and you also can test the model via [inference.py](https://github.com/StarLord202/GTSRB/blob/master/inference.py) file, but firstly download the weights via [this link](https://drive.google.com/file/d/1Gs8mJBBfdBofuBQdViNrPAARUCoBWzNM/view?usp=drive_link)
 
-and add it to the directory where **_inference.py_** is placed
+and add it to the directory where [inference.py](https://github.com/StarLord202/GTSRB/blob/master/inference.py) is placed
 
 Test folder contains images to test model perfomance, those images are not from GTSRB dataset.
 
